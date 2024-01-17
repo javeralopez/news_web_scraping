@@ -1,0 +1,6 @@
+streamlit
+pandas
+PIL
+requests
+bs4
+base64 
