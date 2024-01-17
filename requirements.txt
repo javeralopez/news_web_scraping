@@ -3,4 +3,4 @@ pandas
 pillow
 requests
 bs4
-base64 
+pybase64 
