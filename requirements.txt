@@ -1,6 +1,6 @@
 streamlit
 pandas
-PIL
+pillow
 requests
 bs4
 base64 
